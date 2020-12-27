@@ -1,0 +1,5 @@
+new_guest
+https://cdn.discordapp.com/attachments/792244635203665931/792600331849826334/EasyExploitDLL.dll
+false
+ver
+d
