@@ -1,0 +1,5 @@
+new_guest
+https://cdn.discordapp.com/attachments/792244635203665931/792606190495465472/EzExploit.dll
+false
+ver
+d
